@@ -1,4 +1,4 @@
-FROM n8nio/n8n
+FROM homeassistant/home-assistant
 
 ARG PGPASSWORD
 ARG PGHOST
